@@ -2,15 +2,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-
-// ID : 2734937 Name : Göktürk Surname : Efe //
-
-/*
- *Q1 : for rounds I used post test loop and for scores and managing who starts first I used a pretest loop which checks the condition before executing lines assigned where post test loop would execute and check the condition after which leads it to having atleast one execution everytime
- *Q2 : an integer type variable was generated from the function
- *Q3 : I used an integer type return because we need integer type variable for the score calculation in this case
- */
-
 int play_user(void);
 
 int roll_a_dice(void);
